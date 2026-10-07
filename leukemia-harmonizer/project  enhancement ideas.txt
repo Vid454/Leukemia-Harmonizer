@@ -1,0 +1,20 @@
++Base
+
+
+build an project called leukemia harmoniser. goal is to ingest messy hospital data, transform it, clean it, harmonise it, then run it through an xg boost model which has been pre trained with clean synthetic high quality data, and then get the results from the processing to a nice analytics dashboard.
+
+
+
+
+
++Additional Features
+
+
+a dashboard with charts and graphs or animated/ graphical result representation. and a doanloadable pdf file with similar graphics. 
+
+smooth animated ui when switching between pages single page i dont want a side bar and have to navigate using them. ex start with an upload page and once i upload the file prompt to go to the next page with the click of a button and it should smoothly animate and take me to the next page from there etc.
+
+result page has to be well illustrated and clearly communicate the results of the processed data
+
+
+

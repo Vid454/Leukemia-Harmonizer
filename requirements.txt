@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+nest-asyncio
+pyngrok
+rapidfuzz
+pandas
+numpy
+joblib
+scikit-learn
+xgboost
+imbalanced-learn
+python-multipart
+aiofiles
+reportlab

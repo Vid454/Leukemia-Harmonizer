@@ -1,0 +1,21 @@
+# Original Colab exports (contained a hardcoded ngrok token; superseded by app/)
+coded/
+
+# Possibly restricted clinical data (MIMIC-style: DOB, death dates, subject IDs)
+leukemia-harmonizer/final_cbc_diagnoses_dataset_with_labels.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
