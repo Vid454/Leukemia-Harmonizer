@@ -19,3 +19,7 @@ venv/
 .DS_Store
 Thumbs.db
 .vscode/
+
+# Internal write-ups (kept locally, not published)
+explanations.pdf
+ultra condensed.pdf
